@@ -1,0 +1,9 @@
+.nav {
+  grid-area: n;
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+}
+.nav a {
+  padding: 10px;
+}
